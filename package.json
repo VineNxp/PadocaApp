@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-native-dialog": "^9.3.0",
+    "react-native-modal": "^13.0.1"
+  }
+}

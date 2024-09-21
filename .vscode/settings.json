@@ -1,0 +1,9 @@
+{
+    "sqltools.useNodeRuntime": true,
+    "prettier.bracketSameLine": true,
+    "prettier.endOfLine": "auto",
+    "prettier.htmlWhitespaceSensitivity": "ignore",
+    "prettier.useTabs": true,
+    "prettier.proseWrap": "always",
+    "prettier.insertPragma": true
+}
